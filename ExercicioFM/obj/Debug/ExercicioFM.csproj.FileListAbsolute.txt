@@ -1,0 +1,11 @@
+D:\c#\exercicios em aula\ExercicioFM\bin\Debug\ExercicioFM.exe.config
+D:\c#\exercicios em aula\ExercicioFM\bin\Debug\ExercicioFM.exe
+D:\c#\exercicios em aula\ExercicioFM\bin\Debug\ExercicioFM.pdb
+D:\c#\exercicios em aula\ExercicioFM\obj\Debug\ExercicioFM.csproj.AssemblyReference.cache
+D:\c#\exercicios em aula\ExercicioFM\obj\Debug\ExercicioFM.Exec03.resources
+D:\c#\exercicios em aula\ExercicioFM\obj\Debug\ExercicioFM.Form1.resources
+D:\c#\exercicios em aula\ExercicioFM\obj\Debug\ExercicioFM.Properties.Resources.resources
+D:\c#\exercicios em aula\ExercicioFM\obj\Debug\ExercicioFM.csproj.GenerateResource.cache
+D:\c#\exercicios em aula\ExercicioFM\obj\Debug\ExercicioFM.csproj.CoreCompileInputs.cache
+D:\c#\exercicios em aula\ExercicioFM\obj\Debug\ExercicioFM.exe
+D:\c#\exercicios em aula\ExercicioFM\obj\Debug\ExercicioFM.pdb
