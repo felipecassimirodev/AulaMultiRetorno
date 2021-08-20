@@ -28,6 +28,9 @@ namespace ExercicioFM
         {
             AtualizaDG();
         }
+        /// <summary>
+        /// Atualiza DataGridView dos meses ja cauculados
+        /// </summary>
         private void AtualizaDG()
         {
             List<string[]> lista = DBFunction.GenericSelectall("Historico");
